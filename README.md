@@ -6,10 +6,12 @@ Collection of LeetCode questions to ace the coding interview!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aman-Bam/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aman-Bam/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Aman-Bam/LeetCode/tree/main/LeetCode/Easy/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Aman-Bam/LeetCode/tree/main/LeetCode/Easy/0217-contains-duplicate/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
